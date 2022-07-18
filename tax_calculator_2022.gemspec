@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors = ["DaniyalXprolabs"]
   spec.email = ["daniyal.malik.xprolabs.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = "Write a short summary, because RubyGems requires one."
+  spec.description = "Write a longer description or delete this line."
+  
   spec.required_ruby_version = ">= 2.6.0"
 
   # Specify which files should be added to the gem when it is released.
